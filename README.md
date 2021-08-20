@@ -1,2 +1,2 @@
-# Note-images
+# upload_images
 PIC-GO 图床
